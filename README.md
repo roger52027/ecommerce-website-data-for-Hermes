@@ -28,9 +28,11 @@ Lead Contacts — "Get decision-maker emails for this brand"
 
 **Option 2: Install directly from GitHub**
 ```bash
-/skills install github:roger52027/ecommerce-website-data
+/skills install github:roger52027/ecommerce-website-data-for-Hermes
 ```
-*(or run `hermes skills install github:roger52027/ecommerce-website-data` in your CLI)*
+*(or run `hermes skills install github:roger52027/ecommerce-website-data-for-Hermes` in your CLI)*
+
+Repository: https://github.com/roger52027/ecommerce-website-data-for-Hermes
 
 When you first use the skill, Hermes automatically prompts you for your `APEX_TOKEN` (declared in the skill's `metadata.hermes.config`). Get your free token at [eccompass.ai](https://eccompass.ai) → Dashboard → API Access → Create Token.
 

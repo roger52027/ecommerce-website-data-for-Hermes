@@ -90,9 +90,9 @@ You can install this skill directly from the Hermes Skills Hub or GitHub.
 
 **Option 2: Install directly from GitHub**
 ```bash
-/skills install github:roger52027/ecommerce-website-data
+/skills install github:roger52027/ecommerce-website-data-for-Hermes
 ```
-*(or run `hermes skills install github:roger52027/ecommerce-website-data` in your CLI)*
+*(or run `hermes skills install github:roger52027/ecommerce-website-data-for-Hermes` in your CLI)*
 
 When you first use the skill, Hermes will automatically prompt you to enter your `APEX_TOKEN` (declared in the `metadata.hermes.config` block above).
 Get your free token at [eccompass.ai](https://eccompass.ai) → Dashboard → API Access → Create Token.
